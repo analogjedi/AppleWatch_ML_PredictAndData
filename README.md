@@ -1,6 +1,4 @@
 # AppleWatch_ML_PredictAndData
-creates an apple watch app that gets the accelerometer and gyroscope data and makes a Machine Learning model that uses the sensor data and predicts your action
-
 First open the data xcode proj and change signing as well as build device to an apple watch
 
 Then build the app and it should open on ur watch where you press start and complete your action. Every time you press start the data is printed to the console, so after each action press start and once you are satisfied with the amount of actions to made, copy all of the console output
