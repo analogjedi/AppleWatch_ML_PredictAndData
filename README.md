@@ -7,7 +7,7 @@ Then build the app and it should open on ur watch where you press start and comp
 
 Then paste that output into the input.csv file
 
-Next change the url paths in SplitCSV.java so that it accesses your files in the correct directory
+Next change the url paths in SplitCSV.java so that it accesses your files in the correct directory. Run SplitCSV.java
 If that is done properly the console will output the number of files that have been created and will place them in the directory you specifed
 
 After that take the training set folder that has sub folder(classes) which each have csv files within them, and drag that into your activity classifer through the createML app on mac that is offered once you have XCode installed
